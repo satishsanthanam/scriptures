@@ -9,5 +9,5 @@ Shri Guru Granth Sahib Ji: https://ventpipe.blog/2023/03/29/shri-guru-granth-sah
 HTML version of full to read online (Configuration uses github pages - https://pages.github.com/):
 ==========================================================================================
 Bhagavatam Desktop version: https://bhagavansrikrishna.com/scriptures/bhagavatam/Bhagavatam.html<br>
-Bhagavatam Mobile version: https://bhagavansrikrishna.com/scriptures/bhagavatam/Bhagavatam-mob.html<br>
+Bhagavatam Mobile version (WIP): https://bhagavansrikrishna.com/scriptures/bhagavatam/Bhagavatam-mob.html<br>
 Ramayan: https://bhagavansrikrishna.com/scriptures/ramayanam/ramayan-f6.html
