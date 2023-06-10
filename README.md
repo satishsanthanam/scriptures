@@ -21,6 +21,7 @@ Steps to Convert CSV to HTML.
 2.  Upload the output file of step 1 to https://codebeautify.org/html-decode-string#.  Download the converted file.
 3.  Rename the output of Step 2 with html extention.
 4.  Manually add to the step 3 html file as below.
+```
 <head>
 	
 	<style type="text/css">
@@ -32,3 +33,4 @@ Steps to Convert CSV to HTML.
 	
 </head>
 <body>
+```
