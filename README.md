@@ -13,7 +13,7 @@ HTML version of full to read online (Configuration uses github pages - https://p
 Bhagavatam Desktop version: https://bhagavansrikrishna.com/scriptures/bhagavatam/Bhagavatam.html<br>
 Bhagavatam Mobile version (WIP): https://bhagavansrikrishna.com/scriptures/bhagavatam/Bhagavatam-mob.html<br>
 Ramayan: https://bhagavansrikrishna.com/scriptures/ramayanam/ramayan-f6.html<br>
-Shri Guru Granth Sahib Ji: https://bhagavansrikrishna.com/scriptures/ShriGuruGranthSahibJi/GGSJ.html<br>
+Shri Guru Granth Sahib Ji: https://bhagavansrikrishna.com/scriptures/ShriGuruGranthSahibJi/ShriGGSJ.html<br>
 
 Steps to Convert CSV to HTML.
 ==========================================================================================
