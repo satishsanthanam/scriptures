@@ -14,6 +14,7 @@ Bhagavatam Desktop version: https://bhagavansrikrishna.com/scriptures/bhagavatam
 Bhagavatam Mobile version (WIP): https://bhagavansrikrishna.com/scriptures/bhagavatam/Bhagavatam-mob.html<br>
 Ramayan: https://bhagavansrikrishna.com/scriptures/ramayanam/ramayan-f6.html<br>
 Shri Guru Granth Sahib Ji: https://bhagavansrikrishna.com/scriptures/ShriGuruGranthSahibJi/ShriGGSJ.html<br>
+Vishnu Sahashranamam: https://bhagavansrikrishna.com/scriptures/ShriVishnuSahasranamam/ShriVishnuSNStotram.html<br>
 
 Steps to Convert CSV to HTML.
 ==========================================================================================
