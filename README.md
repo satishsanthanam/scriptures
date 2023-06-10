@@ -23,6 +23,8 @@ Steps to Convert CSV to HTML.
 3.  Rename the output of Step 2 with html extention.
 4.  Manually add to the step 3 html file as below.
 ```
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8" />
 <head>
 	
 	<style type="text/css">
@@ -35,4 +37,9 @@ Steps to Convert CSV to HTML.
 </head>
 <body>
 <table cellspacing="0" border="1">
+
+<contents go here>
+
+</body>
+</html>
 ```
