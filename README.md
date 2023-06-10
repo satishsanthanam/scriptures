@@ -33,4 +33,5 @@ Steps to Convert CSV to HTML.
 	
 </head>
 <body>
+<table cellspacing="0" border="1">
 ```
