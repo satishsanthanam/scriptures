@@ -2,11 +2,14 @@
 
 Formatted version with search feature:
 =====================================
+About me: https://ventpipe.blog/2023/07/10/about-me/<br>
 Bhagavatam: https://ventpipe.blog/2022/05/03/bhagavatam/<br>
 Ramayan: https://ventpipe.blog/2022/05/10/valmiki-ramayan/<br>
 Shri Guru Granth Sahib Ji: https://ventpipe.blog/2023/03/29/shri-guru-granth-sahib-ji/<br>
 Vishnu Sahashranamam: https://ventpipe.blog/2023/04/09/shri-vishnu-sahashranamam/<br>
 Bhagavad Gita: https://ventpipe.blog/2023/06/08/bhagavad-gita/<br>
+Bhaja Govindam: https://ventpipe.blog/2023/08/17/bhaja-govindam-with-meanings/<br>
+Panchatantra: https://ventpipe.blog/2023/08/30/the-great-panchatantra-tales/<br>
 
 HTML version of full to read online (Configuration uses github pages - https://pages.github.com/):
 ==========================================================================================
@@ -16,6 +19,8 @@ Ramayan: https://bhagavansrikrishna.com/scriptures/ramayanam/ramayan-f6.html<br>
 Shri Guru Granth Sahib Ji: https://bhagavansrikrishna.com/scriptures/ShriGuruGranthSahibJi/ShriGGSJ.html<br>
 Vishnu Sahashranamam: https://bhagavansrikrishna.com/scriptures/ShriVishnuSahasranamam/ShriVishnuSNStotram.html<br>
 Shrimad Bhagavad Gita: https://bhagavansrikrishna.com/scriptures/ShrimadBhagavadGita/ShrimadBhagavadGita.html<br>
+Bhaja Govindam: https://bhagavansrikrishna.com/scriptures/bhajagovindam/bhajagovindam.html<br>
+Panchatantra: https://bhagavansrikrishna.com/scriptures/panchatantra/panchatantra.html<br>
 
 Steps to Convert CSV to HTML.
 ==========================================================================================
@@ -40,6 +45,7 @@ Steps to Convert CSV to HTML.
 <table cellspacing="0" border="1">
 
 <contents go here>
+The first column of table is header.  The column header width of the table can be resized using say style="width: 10%" attributes so that column width suits the content.
 
 </body>
 </html>
