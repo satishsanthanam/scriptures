@@ -45,7 +45,6 @@ Steps to Convert CSV to HTML.
 <table cellspacing="0" border="1">
 
 <contents go here>
-The first column of table is header.  The column header width of the table can be resized using say style="width: 10%" attributes so that column width suits the content.
 
 </body>
 </html>
