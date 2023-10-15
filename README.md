@@ -13,7 +13,7 @@ Nālāyira Divya Prabhandam (நாலாயிரத் திவ்விய�
 Bhaja Govindam: https://ventpipe.blog/2023/08/17/bhaja-govindam-with-meanings/<br>
 Panchatantra: https://ventpipe.blog/2023/08/30/the-great-panchatantra-tales/<br>
 తెలుగు శతకాలు: https://ventpipe.blog/2023/10/07/%e0%b0%a4%e0%b1%86%e0%b0%b2%e0%b1%81%e0%b0%97%e0%b1%81-%e0%b0%b6%e0%b0%a4%e0%b0%95%e0%b0%be%e0%b0%b2%e0%b1%81-telugu-sathakalu/<br>
-1001 Samskrita Subhanitanis: https://ventpipe.blog/2023/10/08/%e0%a4%b8%e0%a5%81%e0%a4%ad%e0%a4%be%e0%a4%b7%e0%a4%bf%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%bf-subhashitani/<br>
+1001 Samskrita Subhashitani: https://ventpipe.blog/2023/10/08/%e0%a4%b8%e0%a5%81%e0%a4%ad%e0%a4%be%e0%a4%b7%e0%a4%bf%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%bf-subhashitani/<br>
 																			     
 HTML version of full to read online (Configuration uses github pages - https://pages.github.com/):
 ==========================================================================================
