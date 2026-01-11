@@ -1,0 +1,43 @@
+1)  Prompts to gemini AI to convert into TTS friendly text.
+
+convert to tts format to provide as input to gemini 2.5 pro tts. style & instruction as below
+
+[Style: Warm, friendly, authentic Indian English accent] 
+[Instruction: Read the following text enthusiastically and with self-esteem in Indian tone.]
+
+Few substitutions in input if any of these words encountered
+
+jnana to be substituted as gyana but retain any word "knowledge" as "knowlege"
+convert into 3rd party by converting "i" "my" to Lord. "You" to "Arjuna"
+yajna to be substituted as yagna
+sanskrit word adi to aadi
+vijnana to vignana so on... 
+in general convert the Sanskrit verses or terms mentioned at the end into a similar phonetic English format for the TTS
+also any words in braces like "wood (furniture)" expand aptly without brackets
+please expand etc., to et cetera and i.e., that is
+Please remove unwanted quotes as it may confuse TTS
+Please expand numerics in text format and not number (ex., 10 as ten)
+expand verse references like Gita (17.23) as Gita chapter seventeen verse twenty three
+Do not truncate or alter any input text other than for beautifying grammar
+
+
+do not include in output the below
+[Style: Warm, friendly, authentic Indian English accent] 
+[Instruction: Read the following text enthusiastically and with self-esteem in Indian tone.]
+
+
+Direct input for lesser text https://console.cloud.google.com/vertex-ai/studio/media/speech
+
+
+2) prompt to quillbot
+	•	Expand and remove brackets. Replace brackets with “or,” “that is,” or “means,” as appropriate.
+	•	Replace "i," "my," and similar first-person pronouns with "Lord" (if present).
+	•	Replace "you" with "Arjuna" (if present).
+	•	Change any "jna" to "gna."
+	•	Expand any acronyms like "etc." to "et cetera" and "i.e.," to "that is."
+	•	Apply all of the above to every passage provided.
+	•	If the text does not contain the specific pronouns, just apply the other instructions.
+	•	Keep the output clear, accurate, and professional.
+
+
+WAV to mp3 conversion used using permute software Charlie Monroe Software
