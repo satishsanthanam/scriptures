@@ -41,3 +41,5 @@ Direct input for lesser text https://console.cloud.google.com/vertex-ai/studio/m
 
 
 WAV to mp3 conversion used using permute software Charlie Monroe Software
+
+Output of mp3 files location https://drive.google.com/drive/folders/1O8VHu7QKCSsUlECGMTfflf5iCFYbIOwm?usp=share_link
